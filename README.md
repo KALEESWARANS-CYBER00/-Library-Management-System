@@ -15,8 +15,6 @@ to efficiently manage library operations.
 ---
 
 ## **🛠️ Technologies Used**  
-- **Java (JDK 17+)**  
-- **Java Collections Framework (ArrayList, HashSet, HashMap, LinkedList, Stack)**  
 - **OOP Concepts (Encapsulation, Inheritance, Polymorphism)**  
 
 ---
