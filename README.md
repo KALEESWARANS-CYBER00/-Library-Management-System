@@ -1,6 +1,7 @@
-### **Library Management System** 📚 | *Java Collections Project*  
+### **Library Management System** 📚 | 
 
-This **Library Management System** is a Java-based console application that demonstrates the use of **Java Collections (List, Set, Map, Queue, and Stack)** to efficiently manage library operations.  
+This **Library Management System** is a Java-based console application that demonstrates the use of 
+to efficiently manage library operations.  
 
 ---
 
